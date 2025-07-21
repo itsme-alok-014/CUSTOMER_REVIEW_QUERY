@@ -1,0 +1,7 @@
+# requirements.txt
+streamlit=1.27
+pandas=1.5
+openpyxl=3.1    # used in the notebook for Excel interactions[1]
+openai=0.27     # referenced in the notebook for API calls[1]
+et-xmlfile=1.1  # openpyxl dependency[1]
+numpy=1.23      # pandas core dependency
