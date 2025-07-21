@@ -9,7 +9,7 @@ Built using Python, pandas, and Streamlit.
 ## 🚀 [🟢 CLICK HERE TO OPEN THE LIVE APP](https://itsme-alok-014-customer-review-query.streamlit.app)
 
 <h2 align="center" style="color:#00c851">
-  🔗 <a href="https://itsme-alok-014-customer-review-query.streamlit.app" target="_blank">CLICK HERE TO OPEN THE APP</a>
+  🔗 <a href="https://itsme-alok-014-customer-review-query-streamlit-app-htzwzo.streamlit.app/" target="_blank">CLICK HERE TO OPEN THE APP</a>
 </h2>
 
 ---
