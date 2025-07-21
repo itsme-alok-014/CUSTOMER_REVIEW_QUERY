@@ -10,7 +10,8 @@ uploaded_file = st.file_uploader("Upload your CSV file", type=["csv"])
 
 @st.cache_data
 def load_default_data():
-    return pd.read_csv("C:/Users/rajdu/Documents/SWASTIK_PROJECT/cleaned_customer_reviews.csv")
+    return pd.read_csv("data/cleaned_customer_reviews.csv")
+
 
 @st.cache_data
 def load_uploaded_data(uploaded_file):
